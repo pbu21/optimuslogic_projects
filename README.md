@@ -1,29 +1,66 @@
-# optimuslogic_projects
-ESP32 and Embedded Systems projects focusing on memory management, stack/heap analysis, GPS tracking, and embedded firmware development.
+# Embedded Systems Projects
 
-# Project 1 - Stack Detective
+A collection of Embedded Systems and IoT projects developed using ESP32 and C/C++. These projects focus on memory management, firmware development, debugging techniques, and real-world embedded applications.
 
-## Objective
-Visualize stack memory growth and understand how local variables are stored in memory during function calls on an ESP32.
+## Projects Included
 
-## Learning Outcomes
-- Understand where variables are stored in memory.
-- Observe stack growth during nested function calls.
-- Compare addresses of variables in different functions.
-- Learn how function calls consume stack space.
-- Gain practical experience with memory debugging in embedded systems.
+### 1. Stack Detective
+**Objective:** Visualize stack memory growth during function calls and understand variable storage locations.
 
-## Hardware
-- ESP32 Development Board
-- USB Cable
-- Arduino IDE / PlatformIO
-
-## Concepts Demonstrated
+**Key Concepts:**
 - Stack Memory
 - Function Calls
 - Local Variables
-- Memory Addresses
-- Embedded Memory Management
+- Memory Address Analysis
+
+### 2. Stack Overflow Challenge
+**Objective:** Investigate stack limits and observe system behavior during stack overflow conditions.
+
+**Key Concepts:**
+- Recursive Functions
+- Stack Overflow
+- System Stability
+- Memory Debugging
+
+### 3. Heap Fragmentation Analysis
+**Objective:** Study dynamic memory allocation and understand heap fragmentation in embedded systems.
+
+**Key Concepts:**
+- Dynamic Memory Allocation
+- Heap Usage
+- Memory Fragmentation
+- Performance Optimization
+
+### 4. GPS Tracker Memory Test
+**Objective:** Develop a GPS-based tracking application and analyze memory consumption during operation.
+
+**Key Concepts:**
+- GPS Communication
+- Serial Communication
+- Real-Time Data Processing
+- Memory Monitoring
+
+
+## Technologies Used
+
+- ESP32
+- Arduino Framework
+- C/C++
+- VS Code
+- PlatformIO
+- Serial Monitor
+- Embedded Debugging Techniques
+
+## Skills Demonstrated
+
+- Embedded C/C++ Programming
+- Memory Management
+- Debugging and Testing
+- IoT System Development
+- Sensor Integration
+
+
+## Repository Structure
 
 ## Author
 Prajwal B U
