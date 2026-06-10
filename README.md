@@ -13,14 +13,17 @@ A collection of Embedded Systems and IoT projects developed using ESP32 and C/C+
 - Local Variables
 - Memory Address Analysis
 
-### 2. Stack Overflow Challenge
-**Objective:** Investigate stack limits and observe system behavior during stack overflow conditions.
+### 2. GPS Benchmark
+
+**Objective:** Evaluate the performance and memory usage of a GPS module on ESP32 by measuring location acquisition time, update rate, and system resource utilization.
 
 **Key Concepts:**
-- Recursive Functions
-- Stack Overflow
-- System Stability
-- Memory Debugging
+- GPS Communication
+- NMEA Data Processing
+- Serial Communication
+- Performance Benchmarking
+- Memory Usage Analysis
+- Real-Time Embedded Systems
 
 ### 3. Heap Fragmentation Analysis
 **Objective:** Study dynamic memory allocation and understand heap fragmentation in embedded systems.
