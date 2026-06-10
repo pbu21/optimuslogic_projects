@@ -64,6 +64,30 @@ A collection of Embedded Systems and IoT projects developed using ESP32 and C/C+
 
 
 ## Repository Structure
+Embedded-Systems-Projects/
+│
+├── README.md
+│
+├── Project-1-Stack-Detective/
+│   ├── Stack_Detective.ino
+│   ├── Report.pdf
+│   └── screenshots/
+│
+├── Project-2-Stack-Overflow-Challenge/
+│   ├── Stack_Overflow.ino
+│   ├── Report.pdf
+│   └── screenshots/
+│
+├── Project-3-Heap-Fragmentation/
+│   ├── Heap_Fragmentation.ino
+│   ├── Report.pdf
+│   └── screenshots/
+│
+├── Project-4-GPS-Benchmark/
+│   ├── GPS_Benchmark.ino
+│   ├── Report.pdf
+│   └── screenshots/
+
 
 ## Author
 Prajwal B U
