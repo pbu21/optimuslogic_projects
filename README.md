@@ -88,6 +88,8 @@ Embedded-Systems-Projects/
 │   ├── Report.pdf
 │   └── screenshots/
 
+## Demo Video
 
+🎥 [Watch Demo Video](https://photos.app.goo.gl/wEc2DytAVuz5n2fK9)
 ## Author
 Prajwal B U
